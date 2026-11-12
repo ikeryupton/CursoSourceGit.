@@ -1,0 +1,9 @@
+# Curso SourceGit
+
+Proyecto de prácticas para aprender Git,
+SourceGit y Git Flow.
+
+## Versiones
+- 1.0.0: versión inicial.
+## Versiones
+- 2.0.0: versión inicial.
