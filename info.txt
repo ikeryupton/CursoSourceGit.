@@ -6,3 +6,5 @@ SourceGit y Git Flow.
 ## Versiones
 - 1.0.0: versión inicial.
 - 1.1.0: nueva funcionalidad en desarrollo.
+## Corrección urgente
+Hotfix 1.0.1: corrección de errores de la versión 1.0.0.
